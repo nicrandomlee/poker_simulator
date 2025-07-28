@@ -1,0 +1,24 @@
+# Ignore Jupyter notebook files
+*.ipynb
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore JSON files
+*.json
+
+# Ignore Python bytecode caches
+__pycache__/
+*.py[cod]
+
+# Ignore dump files
+*.dump
+*.log
+*.pickle
+*.pkl
+*.dat
+
+# Optionally ignore VSCode settings and Python virtual env folders (uncomment if needed)
+.vscode/
+venv/
+env/
