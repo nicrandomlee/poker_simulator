@@ -4,7 +4,7 @@ import time
 import logging
 
 if __name__ == '__main__':
-    n_trials = 500000
+    n_trials = 1500000
     n_players = 4
     winners_dict_filepath="winner_4_player_results.json"
     losers_dict_filepath="loser_4_player_results.json"
